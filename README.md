@@ -1,6 +1,6 @@
 # BtkDukkan-Back-End
 
-# Btk Dukkan Project
+## Btk Dukkan Project
 
 E-commerce is a back end web api project.
 (E-ticaret back end web api projesidir.)
